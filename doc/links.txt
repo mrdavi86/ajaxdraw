@@ -1,0 +1,7 @@
+Javascript tutorial: http://www.w3schools.com/js/default.asp
+
+Javascript standard: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+
+Emacs mode for javascript: http://code.google.com/p/js2-mode/
+
+Server side javascript: http://www.mozilla.org/rhino/
